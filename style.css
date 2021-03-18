@@ -1,0 +1,12 @@
+input{
+    border-radius: 0;
+}
+button{
+    border-radius: 0;
+    background-color: #b5afaf;
+    padding: 5px;
+}
+
+.lowOrHigh{
+    margin: 30px 0 30px 0;
+}
